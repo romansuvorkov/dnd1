@@ -1,4 +1,4 @@
-https://romansuvorkov.github.io/dnd-1
+https://romansuvorkov.github.io/dnd1
 
 [![Build status](https://ci.appveyor.com/api/projects/status/u91hk4na46fmh139?svg=true)](https://ci.appveyor.com/project/romansuvorkov/dnd1)
 
